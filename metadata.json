@@ -1,0 +1,10 @@
+{
+  "name": "NOVA",
+  "description": "Premium voice-to-voice AI Assistant named NOVA with a flirty, sassy, and playful Hindi persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
